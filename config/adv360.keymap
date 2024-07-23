@@ -52,7 +52,7 @@
             bindings = <
  &kp GRAVE     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5            &trans                                                                 &mo 3          &kp N6            &kp KP_NUM           &kp KP_EQUAL     &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp MINUS
    &kp TAB      &kp Q     &kp W     &kp E      &kp R   &kp T             &none                                                                 &none      &kp DOLLAR        &kp LEFT_BRACE        &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET   &kp BSLH
-   &kp ESC      &kp A     &kp S     &kp D      &kp F   &kp G             &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none  &kp LEFT_ARROW        &kp DOWN_ARROW           &kp UP_ARROW   &kp RIGHT_ARROW        &kp KP_PLUS    &kp SQT
+   &kp ESC      &kp A     &kp S     &kp D      &kp F   &kp G             &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none  &kp LEFT_ARROW        &kp DOWN_ARROW           &kp UP_ARROW   &kp RIGHT_ARROW   &kp SINGLE_QUOTE    &kp SQT
  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                               &kp HOME                  &kp PG_UP                                 &kp N  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS         &kp KP_N3       &kp KP_ENTER  &kp RSHFT
      &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &trans     &trans   &kp END                  &kp PG_DN  &kp ENTER  &kp KP_N0                                &kp UP               &kp DOWN        &kp KP_DOT           &kp RBKT      &mo 2
             >;
